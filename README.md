@@ -46,3 +46,13 @@ Customers with Driving License have higher chance of buying Insurance.
 Customers with Vehicle_Damage are likely to buy insurance.
 The variables : Age, Previously_insured,Annual_premium are more afecting the target variable.
 comparing ROC curve we can see that Random Forest model preform better. Because curves closer to the top-left corner, it indicate a better performance.
+
+
+![-----------------------------------------------------](https://github.com/sky309/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/blob/main/images.png)
+
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
+< Sarvesh > | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
