@@ -54,6 +54,7 @@ comparing ROC curve we can see that Random Forest model preform better. Because 
 <h2 id="credits"> :scroll: Credits</h2>
 
 < Sarvesh > | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+<i><a Linkedin: href="https://www.linkedin.com/in/sarveshkumaryadav/">
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
