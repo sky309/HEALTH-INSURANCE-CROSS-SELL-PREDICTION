@@ -1,6 +1,6 @@
 <p align='center'> I have developed a Health Insurance Cross Sell Prediction Model</p>
 <h1><p align='center'> HEALTH-INSURANCE-CROSS-SELL-PREDICTION Model Development.</p></h1>
-<p align="center">< img src="https://github.com/sky309/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/blob/main/INS-1-780x405.jpg"></p>
+<p align="center">< img src="https://github.com/sky309/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/blob/main/INS-1-780x405.jpg" raw= True></p>
 <b>Problem Statement: </b>
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
