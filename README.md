@@ -59,9 +59,9 @@ comparing ROC curve we can see that Random Forest model preform better. Because 
 
 
 ### References:
-<ol>
+<ol><i>
   <li>https://scikit-learn.org/stable/</li>
   <li>https://catboost.ai/</li>
   <li>https://xgboost.ai/</li>
   <li>https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html</li>
-  <li>https://www.kdnuggets.com/2020/05/hyperparameter-optimization-machine-learning-models.html</li></ol>
+  <li>https://www.kdnuggets.com/2020/05/hyperparameter-optimization-machine-learning-models.html</li></i></ol>
