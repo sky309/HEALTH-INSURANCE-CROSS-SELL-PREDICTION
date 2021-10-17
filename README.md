@@ -13,7 +13,7 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
     <li>Driving_License       381109 non-null  int64  </li>
     <li>Region_Code           381109 non-null  float64</li>
     <li>Previously_Insured    381109 non-null  int64 </li> 
-    </li> Vehicle_Age           381109 non-null  object </li>
+    <li> Vehicle_Age           381109 non-null  object </li>
     <li>Vehicle_Damage        381109 non-null  object</li> 
     <li>Annual_Premium        381109 non-null  float64</li>
     <li>Policy_Sales_Channel  381109 non-null  float64,/li>
